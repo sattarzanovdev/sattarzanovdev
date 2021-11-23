@@ -1,5 +1,5 @@
 # Hi I'm Daniel👋👨‍💻
-<img src="https://www.pngitem.com/pimgs/m/490-4905098_programming-illustration-images-png-transparent-png.png" alt="">
+<img src=https://i.pinimg.com/originals/54/5d/c7/545dc70147b6b8a300d33ef5cc51ca5a.jpg" alt="">
 
 ## Social💬
 <a href="https://instagram.com/sattarzanov_">
