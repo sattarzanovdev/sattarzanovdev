@@ -23,8 +23,10 @@
 </div>
 
 ## Databases🌐
-<img width="100" src="https://logospng.org/wp-content/uploads/node-js.png" alt="">
-<img width="100" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" alt="">
+<div style="display: flex;">
+    <img width="100" src="https://logospng.org/wp-content/uploads/node-js.png" alt="">
+    <img width="100" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" alt="">
+</div>
 
 ## Tools✌
 <div style="display: flex;">
