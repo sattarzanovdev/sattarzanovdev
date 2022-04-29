@@ -8,9 +8,7 @@
 <a href="https://t.me/sattarzanov">
     <img align="left" alt="telegram" width="25px" src="https://www.freepnglogos.com/uploads/telegram-logo-4.png">
 </a>
-<a href="https://wa.me/+996222121217">
-    <img align="left" alt="whatsapp" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/768px-WhatsApp_logo-color-vertical.svg.png">
-</a>
+
 
 <br>
 
