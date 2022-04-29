@@ -1,5 +1,5 @@
 # Hi I'm Daniel👋👨‍💻
-<img width="350" src="https://i.pinimg.com/originals/54/5d/c7/545dc70147b6b8a300d33ef5cc51ca5a.jpg" alt="">
+<img width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="">
 
 ## Social💬
 <a href="https://instagram.com/sattarzanov_">
