@@ -1,7 +1,6 @@
 <img width="650" src="./img/image.png" style="margin-top: 25px;">
 
 <br>
-<br>
 
 <div style="font-family: montserrat">
     <h1>Hey!👋</h1>
