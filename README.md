@@ -5,10 +5,11 @@
 <div style="font-family: montserrat">
     <h1>Hey!👋</h1>
     <p>I'm Sattarzhanov Daniel!</p>
-    <div style="margin-left: 25px; font-family: montserrat">
-        <li>Front-End developer 👨‍💻</li>
-        <li>UX/UI designer 🖌</li>
-    </div>
+</div>
+
+<div style="margin-left: 25px; font-family: montserrat">
+    <li>Front-End developer 👨‍💻</li>
+    <li>UX/UI designer 🖌</li>
 </div>
 
 <br>
