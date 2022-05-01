@@ -7,10 +7,10 @@
     <p>I'm Sattarzhanov Daniel!</p>
 </div>
 
-<div style="margin-left: 25px; font-family: montserrat">
+<ul style="font-family: montserrat">
     <li>Front-End developer 👨‍💻</li>
     <li>UX/UI designer 🖌</li>
-</div>
+</ul>
 
 <br>
 
