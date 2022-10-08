@@ -1,34 +1,16 @@
-<img width="650" src="./img/image.png" style="margin-top: 25px;">
+# 💫 About Me:
+🔭 I’m currently working on Frontend developer<br>🌱 I’m currently learning: Redux, TypeScript
 
-<br>
 
-<div style="font-family: montserrat">
-    <h1>Hey!👋</h1>
-    <p>I'm Sattarzhanov Daniel!</p>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sattarzanov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel sattarzhanov) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sattarzanov_) 
 
-<ul style="font-family: montserrat">
-    <li>Front-End developer 👨‍💻</li>
-    <li>UX/UI designer 🖌</li>
-</ul>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sattarzhanovdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sattarzhanovdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sattarzhanovdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-
-<div style="font-family: montserrat">
-    <h1>I'm Currently Learning 😁</h1>
-    <ul>
-        <li>Database 🌐</li>
-        <li>React JS 👨‍💻</li>
-    </ul>
-</div>
-
-<br>
-
-<div>
-    <h1>I'm Code On 👨‍💻</h1>
-    <div style="display: flex;">
-    <img width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAD2APNZeHXaSogF8b_YZyz5IAyXZR9rsWvRyB2rb5LBb1hOCz8qwmo-_a3NlcWjg34ko&usqp=CAU" alt="">
-    <img width="116.5" style="margin-left: 25px;" src="https://html5hive.org/wp-content/uploads/2014/03/css-beginners-tutorial.jpg.webp" alt="">
-    <img width="100" height="100" style="margin-left: 25px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="">
-    <img width="100" src="https://camo.githubusercontent.com/450108e079e68a64343321bdfd3ea6d114f57cd601e677d7ffd2fffb07d04324/68747470733a2f2f636f6d6d6f6e732e626d7374752e77696b692f696d616765732f622f62382f426f6f7473747261702e706e67" alt="">
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=sattarzhanovdev&icon=0&color=0)](https://visitcount.itsvg.in)
