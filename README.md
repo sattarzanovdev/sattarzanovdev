@@ -1,7 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Frontend developer<br>🌱 I’m currently learning: Redux, TypeScript
-
-
+# Hey there! I'm Daniel
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sattarzanov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sattarzanov-2b8553238) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sattarzanov_) 
 
