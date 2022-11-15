@@ -59,10 +59,6 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sattarzhanovdev&layout=compact&theme=dark)](https://github.com/sattarzhanovdev/sattarzhanovdev)
-
-![sattarzhanovdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sattarzhanovdev&show_icons=true&theme=dark)
-
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
