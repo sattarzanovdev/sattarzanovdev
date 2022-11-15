@@ -1,16 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on Frontend developer<br>🌱 I’m currently learning: Redux, TypeScript
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sattarzanov_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sattarzanov-2b8553238) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sattarzanov_) 
+<img 
+  src="https://i.gifer.com/KY0J.gif" 
+  alt="gif"
+/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sattarzhanovdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sattarzhanovdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sattarzhanovdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 style="font-family: montserrat; font-weight: bold">Social</h1>
+<div>
+  <a href="https://www.linkedin.com/in/daniel-sattarzanov-2b8553238">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="linkedin"
+    />
+  </a>
+  <a href="https://t.me/sattarzanov">
+    <img 
+      src="https://img.shields.io/badge/Telegram-lightblue?logo=telegram&logoColor=white&style=for-the-badge"
+    />
+  </a>
+  <a href="mailto:sattarzhanovdev@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge"
+    />
+  </a>
+  <a href="https://instagram.com/sattarzanov_">
+    <img 
+      src="https://img.shields.io/badge/instagram-green?logo=instagram&logoColor=white&style=for-the-badge"
+    />
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=sattarzhanovdev&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1 style="font-family: montserrat; font-weight: bold; margin-top: 50px;">Stacks</h1>
+<div style="margin-bottom: 50px">
+  <img 
+    src="https://img.shields.io/badge/html-red?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/css-blue?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/javascript-yellow?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/typescript-blue?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/scss-pink?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/react-lightblue?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/Rest api-green?logo=html&logoColor=red&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/axios-lightgreen?logo=html&logoColor=red&style=for-the-badge"
+  />
+  
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sattarzhanovdev&layout=compact&theme=dark)](https://github.com/sattarzhanovdev/sattarzhanovdev)
+
+![sattarzhanovdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sattarzhanovdev&show_icons=true&theme=dark)
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
