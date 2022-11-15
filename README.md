@@ -1,7 +1,7 @@
 
 
 <img 
-  src="https://i.gifer.com/KY0J.gif" 
+  src="./img/KY0J.gif" 
   alt="gif"
 />
 
